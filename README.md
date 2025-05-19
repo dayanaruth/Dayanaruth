@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale (1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 
