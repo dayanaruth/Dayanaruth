@@ -10,7 +10,7 @@
 </h1>
 <h1 align="center">  👻                     "Equipo de Desarrollo xd "  </h1>
 
-<h3 align="left">⚡ "El Gato 'Hacker       readme.md' "</h3>
+<h3 align="left">⚡ "El Gato 'Hacker ' "</h3>
 <a >
   <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" width="300" height="auto" />
 </a>
@@ -28,8 +28,8 @@
 <!--<p align="left"> <a href="https://twitter.com/" KRWTS6SSGNFGQWLNIZ4WEMRVLJMVMTTILFWVM5DCGNHFKYRSKJ3A ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱  Actualmente me dedico a  hackear el router sin que mis humanos se den cuenta.</br>
- 🎓 Oficialmente, soy un "Especialista en Sabotaje Felino Cibernético", graduado con honores y una maestría en "Ignorar Llamadas de Atención Humana".</br>
+ 🌱  Actualmente me dedico a  hackear el router sin que mis humanos se den cuenta. </br>
+ 🎓 Oficialmente, soy un "Especialista en Sabotaje Felino Cibernético", graduado con honores y una maestría en "Ignorar Llamadas de Atención Humana"   readme.md.</br>
  💬 Dedico mi valioso tiempo a descifrar contraseñas complejas (principalmente observando dónde teclea mi humano cuando cree que no lo veo).</br> <!-- pist   ..- ... ..- .-. .. --- ---... / .--. .- - .. - .- ...  pist-->
  ⚡ ¡Soy el único gato en el mundo con un historial de accesos no autorizados a la cuenta de Netflix para poner documentales de aves! Y no, no me arrepiento de nada..</br>
  ✨ xd ¡Miau-tención!. <div align="left"> 
