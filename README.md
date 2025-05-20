@@ -73,6 +73,9 @@
   <a href="#">
     <img src="https://github.com/user-attachments/assets/50cff220-1f15-413e-bc1d-2104a2801eed" width="200px" alt="Imagen 3"/>
   </a>
+   <a href="#">
+    <img src="https://github.com/user-attachments/assets/88d54561-5196-4eae-a3ca-2d4f4cebda4b" width="200px" alt="Imagen 4"/>
+  </a>
 </div>
 
 
@@ -83,6 +86,8 @@
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 <a href="https://youtu.be/ld4nzao5XAc?si=JTErzuRWJzxwQb45?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
 <a href="https://github.com/user-attachments/files/20344144/diccionariogato.txt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="https://vm.tiktok.com/ZMSNfy9eV/" target="_blank"><img src="https://img.shields.io/badge/Base-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a>
+<a href="https://vm.tiktok.com/ZMSNfULtJ/" target="_blank"><img src="https://img.shields.io/badge/8080-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 
 
 
@@ -96,7 +101,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
     <img src="https://skillicons.dev/icons?i=c,pwsh,kali,arch,ubuntu,python,javascript,mysql,atom" /><br>
 </div>
-
+<a href="https://vm.tiktok.com/ZMSNfmFgB/" target="_blank"><img src="https://img.shields.io/badge/MIAU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
+<a href="https://vm.tiktok.com/ZMSNffbWE/" target="_blank"><img src="https://img.shields.io/badge/Chimuelo.com-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
+<a href="https://vm.tiktok.com/ZMSNf41sd/" target="_blank"><img src="https://img.shields.io/badge/ErrorTuyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 <br/>
 
 
