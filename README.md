@@ -10,7 +10,7 @@
 </h1>
 <h1 align="center">  👻                     "Equipo de Desarrollo xd "  </h1>
 
-<h3 align="left">⚡ "El Gato 'Hacker' -.-. .-.. --- -. .- .-."</h3>
+<h3 align="left">⚡ "El Gato 'Hacker       readme.md' "</h3>
 <a >
   <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" width="300" height="auto" />
 </a>
