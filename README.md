@@ -28,7 +28,7 @@
 <!--<p align="left"> <a href="https://twitter.com/" KRWTS6SSGNFGQWLNIZ4WEMRVLJMVMTTILFWVM5DCGNHFKYRSKJ3A ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱  Actualmente estoy cultivando una nueva raza de siestas profundas que me permiten hackear el router sin que mis humanos se den cuenta.</br>
+ 🌱  Actualmente me dedico a  hackear el router sin que mis humanos se den cuenta.</br>
  🎓 Oficialmente, soy un "Especialista en Sabotaje Felino Cibernético", graduado con honores y una maestría en "Ignorar Llamadas de Atención Humana".</br>
  💬 Dedico mi valioso tiempo a descifrar contraseñas complejas (principalmente observando dónde teclea mi humano cuando cree que no lo veo).</br> <!-- pist   ..- ... ..- .-. .. --- ---... / .--. .- - .. - .- ...  pist-->
  ⚡ ¡Soy el único gato en el mundo con un historial de accesos no autorizados a la cuenta de Netflix para poner documentales de aves! Y no, no me arrepiento de nada..</br>
@@ -45,7 +45,7 @@
  <!--  🌱 MNQWIYLWMV5GK43UMFZW2YLTMNSXEY3B .</br>
  🎓 aGF5cGlzdGFzdmFsaW9zYXM </br>
  💬 cG9yZWplbXBsb3VzdWFyaW9HQVRPTUFMTw </br> -->
- ⚡ Dato curioso se rumorea que soy el único hámster capaz de hacer un rollback completo de una base de datos... ¡simplemente regurgitando todo lo que guardé en mis cachetes!</br>
+ ⚡ Dato curioso se rumorea que soy el único hámster capaz de hacer bacaps completos de una base de datos... ¡simplemente buscando todo lo que guardé en mis cachetes!</br>
  ✨  ¡No confíes en tus datos si no los ha procesado un hámster! <div align="left"> 
 </div></h4>
 
