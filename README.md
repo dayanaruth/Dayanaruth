@@ -12,7 +12,7 @@
 
 <h3 align="left">⚡ "El Gato 'Hacker'"</h3>
 <a >
-  <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" style="width:100; height:100"/>
+  <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" width="300" height="auto" />
 </a>
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
@@ -51,7 +51,7 @@
 
 <h3 align="left">⚡ "Psicólogo de Errores 404'"</h3>
 <a >
-  <img src="https://github.com/user-attachments/assets/1a15c455-520d-45b6-99d3-a62653b06406" style="width:100; height:100"/>
+  <img src="https://github.com/user-attachments/assets/1a15c455-520d-45b6-99d3-a62653b06406" width="300" height="auto"/>
 </a>
 
 <h4> 
@@ -64,13 +64,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/10e5fcbf-3f94-4524-aa9c-8be1653e331a" width="300px" alt="Imagen 1"/>
+    <img src="https://github.com/user-attachments/assets/10e5fcbf-3f94-4524-aa9c-8be1653e331a" width="200px" alt="Imagen 1"/>
   </a>
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/9fc417bb-6edf-4e86-a757-1e25afa9662d" width="300px" alt="Imagen 2"/>
+    <img src="https://github.com/user-attachments/assets/9fc417bb-6edf-4e86-a757-1e25afa9662d" width="200px" alt="Imagen 2"/>
   </a>
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/50cff220-1f15-413e-bc1d-2104a2801eed" width="300px" alt="Imagen 3"/>
+    <img src="https://github.com/user-attachments/assets/50cff220-1f15-413e-bc1d-2104a2801eed" width="200px" alt="Imagen 3"/>
   </a>
 </div>
 
