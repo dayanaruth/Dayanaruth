@@ -32,7 +32,7 @@
  🎓 Oficialmente, soy un "Especialista en Sabotaje Felino Cibernético", graduado con honores y una maestría en "Ignorar Llamadas de Atención Humana"   readme.md.</br>
  💬 Dedico mi valioso tiempo a descifrar contraseñas complejas (principalmente observando dónde teclea mi humano cuando cree que no lo veo).</br> <!-- pist   ..- ... ..- .-. .. --- ---... / .--. .- - .. - .- ...  pist-->
  ⚡ ¡Soy el único gato en el mundo con un historial de accesos no autorizados a la cuenta de Netflix para poner documentales de aves! Y no, no me arrepiento de nada..</br>
- ✨ xd ¡Miau-tención!. <div align="left"> 
+ ✨ xd ¡Miau-tención!.  readme.md <div align="left"> 
 </div></h4>
 
 
