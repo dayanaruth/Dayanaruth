@@ -3,7 +3,7 @@
 
 
 <!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
+<img width="100%" HAYDQMI src="https://readme-herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=;" HAYDQMI  alt="Typing Animation" style="width:100%"/>-->
 
 
 <!-- Greeting -->
@@ -15,7 +15,7 @@
   <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" width="300" height="auto" />
 </a>
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="310" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
@@ -83,19 +83,7 @@
 <a href="https://youtu.be/ld4nzao5XAc?si=JTErzuRWJzxwQb45?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
 
 
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
-</div></h4>
-
-
-
-<br/><br/>
-
-
-
-<!-- lang-->
+<!-- MNEFM3DDNZJHMT2EM4YE2QI -->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
 <br/>
