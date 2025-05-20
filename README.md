@@ -102,7 +102,7 @@
     <img src="https://skillicons.dev/icons?i=c,pwsh,kali,arch,ubuntu,python,javascript,mysql,atom" /><br>
 </div>
 <a href="https://vm.tiktok.com/ZMSNfmFgB/" target="_blank"><img src="https://img.shields.io/badge/MIAU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
-<a href="https://vm.tiktok.com/ZMSNffbWE/" target="_blank"><img src="https://img.shields.io/badge/Chimuelo.com-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
+<a href="https://vm.tiktok.com/ZMSNP8bUN/" target="_blank"><img src="https://img.shields.io/badge/Chimuelo.com-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 <a href="https://vm.tiktok.com/ZMSNf41sd/" target="_blank"><img src="https://img.shields.io/badge/ErrorTuyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 <br/>
 
