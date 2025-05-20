@@ -1,4 +1,116 @@
 
+[Upgato
+gatito
+felino
+miau
+ronroneo
+bigotes
+patas
+cola
+arañar
+rascador
+juguete
+bolita
+comida
+arenero
+leche
+pescado
+ratón
+caza
+siesta
+dormir
+ronronear
+mimar
+acariciar
+jugar
+saltar
+ágil
+curioso
+independiente
+doméstico
+salvaje
+gatera
+camita
+manta
+pelaje
+suave
+tigre
+león
+pantera
+jaguar
+pelo
+garras
+uña
+ronrón
+maullido
+kitten
+kitty
+gatuno
+gatita
+gatuno
+gatunas
+bigotudo
+ronroncito
+maullador
+cazador
+nocturno
+peludito
+cola larga
+ojos
+nariz
+orejas
+hocico
+collar
+correa
+veterinario
+vacuna
+desparasitar
+castrar
+esterilizar
+adoptar
+refugio
+amor
+fidelidad
+amistad
+compañero
+terapia
+mascota
+peluche
+dibujo
+animado
+meme
+viral
+redes
+sociales
+internet
+mimoso
+gracioso
+divertido
+adorable
+hermoso
+precioso
+pequeño
+grande
+negro
+blanco
+naranja
+gris
+atigrado
+manchado
+siamés
+persa
+maine coon
+bengalí
+sphynx
+calicó
+angora
+pata de terciopelo
+gato de Cheshire
+gato con botas
+Garfield
+silvestre
+Tom
+loading diccionariogato.txt…]()
 
 
 
@@ -6,7 +118,7 @@
 <img width="100%" HAYDQMI src="https://readme-herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=;" HAYDQMI  alt="Typing Animation" style="width:100%"/>-->
 
 
-<!-- Greeting -->
+<!-- Tk5RWEUyTE9NRQ -->
 </h1>
 <h1 align="center">  👻                     "Equipo de Desarrollo xd "  </h1>
 
@@ -22,9 +134,10 @@
 <!-- about me -->
  <h3 align="left">💫 Acerca de mi --.-. ..- .- .-. - .- / .--. .. ... - .- / .--. .-. --- --. .-. .- -- .- -.. --- .-.</h3>
 
+[diccionariogato.txt](https://github.com/user-attachments/files/20344144/diccionariogato.txt)
 
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/" KRWTS6SSGNFGQWLNIZ4WEMRVLJMVMTTILFWVM5DCGNHFKYRSKJ3A ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
  🌱  Actualmente estoy cultivando una nueva raza de siestas profundas que me permiten hackear el router sin que mis humanos se den cuenta.</br>
@@ -76,7 +189,7 @@
 
 
 <br/><br/>
-<a href="mailto:LaclaveEstaEnBuscar.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+<a href="mailto:LaclaveEstaEnBuscarNVUWC5LNNFQXK.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://vm.tiktok.com/ZMSNB9aP4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
