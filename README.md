@@ -1,116 +1,4 @@
 
-[Upgato
-gatito
-felino
-miau
-ronroneo
-bigotes
-patas
-cola
-arañar
-rascador
-juguete
-bolita
-comida
-arenero
-leche
-pescado
-ratón
-caza
-siesta
-dormir
-ronronear
-mimar
-acariciar
-jugar
-saltar
-ágil
-curioso
-independiente
-doméstico
-salvaje
-gatera
-camita
-manta
-pelaje
-suave
-tigre
-león
-pantera
-jaguar
-pelo
-garras
-uña
-ronrón
-maullido
-kitten
-kitty
-gatuno
-gatita
-gatuno
-gatunas
-bigotudo
-ronroncito
-maullador
-cazador
-nocturno
-peludito
-cola larga
-ojos
-nariz
-orejas
-hocico
-collar
-correa
-veterinario
-vacuna
-desparasitar
-castrar
-esterilizar
-adoptar
-refugio
-amor
-fidelidad
-amistad
-compañero
-terapia
-mascota
-peluche
-dibujo
-animado
-meme
-viral
-redes
-sociales
-internet
-mimoso
-gracioso
-divertido
-adorable
-hermoso
-precioso
-pequeño
-grande
-negro
-blanco
-naranja
-gris
-atigrado
-manchado
-siamés
-persa
-maine coon
-bengalí
-sphynx
-calicó
-angora
-pata de terciopelo
-gato de Cheshire
-gato con botas
-Garfield
-silvestre
-Tom
-loading diccionariogato.txt…]()
 
 
 
@@ -134,7 +22,7 @@ loading diccionariogato.txt…]()
 <!-- about me -->
  <h3 align="left">💫 Acerca de mi --.-. ..- .- .-. - .- / .--. .. ... - .- / .--. .-. --- --. .-. .- -- .- -.. --- .-.</h3>
 
-[diccionariogato.txt](https://github.com/user-attachments/files/20344144/diccionariogato.txt)
+
 
 
 <!--<p align="left"> <a href="https://twitter.com/" KRWTS6SSGNFGQWLNIZ4WEMRVLJMVMTTILFWVM5DCGNHFKYRSKJ3A ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -194,6 +82,8 @@ loading diccionariogato.txt…]()
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 <a href="https://youtu.be/ld4nzao5XAc?si=JTErzuRWJzxwQb45?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
+<a href="https://github.com/user-attachments/files/20344144/diccionariogato.txt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+
 
 
 <!-- MNEFM3DDNZJHMT2EM4YE2QI -->
