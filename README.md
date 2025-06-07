@@ -1,97 +1,100 @@
 
+<!--
+**dayanaruth/Dayanaruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!--
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+-->
+
+<!--
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
+
+<!-- MasterHead -->
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale (1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
 
 
 
 <!--<h1 align="left">
-<img width="100%" HAYDQMI src="https://readme-herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=;" HAYDQMI  alt="Typing Animation" style="width:100%"/>-->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
-<!-- Tk5RWEUyTE9NRQ -->
+<!-- Greeting -->
 </h1>
-<h1 align="center">  👻                     "Equipo de Desarrollo xd "  </h1>
+<h1 align="center">  👻                      DayanaRuth </h1>
 
-<h3 align="left">⚡ "El Gato 'Hacker ' "</h3>
-<a >
-  <img src="https://github.com/user-attachments/assets/ec19493f-a974-42a4-a573-06b946347529" width="300" height="auto" />
-</a>
+
+
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/github-profile-views-counter -->
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="310" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
 <!-- about me -->
- <h3 align="left">💫 Acerca de mi --.-. ..- .- .-. - .- / .--. .. ... - .- / .--. .-. --- --. .-. .- -- .- -.. --- .-.</h3>
+ <h3 align="left">💫 Acerca de mi</h3>
 
 
 
-
-<!--<p align="left"> <a href="https://twitter.com/" KRWTS6SSGNFGQWLNIZ4WEMRVLJMVMTTILFWVM5DCGNHFKYRSKJ3A ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱  Actualmente me dedico a  hackear el router sin que mis humanos se den cuenta. </br>
- 🎓 Oficialmente, soy un "Especialista en Sabotaje Felino Cibernético", graduado con honores y una maestría en "Ignorar Llamadas de Atención Humana"   readme.md.</br>
- 💬 Dedico mi valioso tiempo a descifrar contraseñas complejas (principalmente observando dónde teclea mi humano cuando cree que no lo veo).</br> <!-- pist   ..- ... ..- .-. .. --- ---... / .--. .- - .. - .- ...  pist-->
- ⚡ ¡Soy el único gato en el mundo con un historial de accesos no autorizados a la cuenta de Netflix para poner documentales de aves! Y no, no me arrepiento de nada..</br>
- ✨ xd ¡Miau-tención!.  readme.md <div align="left"> 
+ 🌱 Actualmente estoy aprendiendo desarrollo web y otros leguajes de programacion y diceño .</br>
+ 🎓 Soy estudiante de la carrera de Ingenieria de sistemas.</br>
+ 💬 Dedico mi tiempo libre a la natación, aprendiz de instrumentos musicales. Siempre en búsqueda de nuevos conocimientos y desafíos.</br>
+ ⚡ Dato curioso la comida y la musica🎧 son las razones para vivir.</br>
+ ✨ xd. <div align="left"> 
 </div></h4>
 
-
-<h3 align="left">⚡ "El Hámster "Administrador de Bases de Datos"'"</h3>
-<a >
-  <img src="https://github.com/user-attachments/assets/0af19d5f-0815-453e-9c76-87db40864c16" style="width:auto; height:auto"/>
-</a>
-
-<h4> 
- <!--  🌱 MNQWIYLWMV5GK43UMFZW2YLTMNSXEY3B .</br>
- 🎓 aGF5cGlzdGFzdmFsaW9zYXM </br>
- 💬 cG9yZWplbXBsb3VzdWFyaW9HQVRPTUFMTw </br> -->
- ⚡ Dato curioso se rumorea que soy el único hámster capaz de hacer bacaps completos de una base de datos... ¡simplemente buscando todo lo que guardé en mis cachetes!</br>
- ✨  ¡No confíes en tus datos si no los ha procesado un hámster! <div align="left"> 
-</div></h4>
-
-
-<h3 align="left">⚡ "Psicólogo de Errores 404'"</h3>
-<a >
-  <img src="https://github.com/user-attachments/assets/1a15c455-520d-45b6-99d3-a62653b06406" width="300" height="auto"/>
-</a>
-
-<h4> 
- 🌱  Actualmente estoy descubriendo por qué tu impresora te odia personalmente y si es posible que tu Wi-Fi te ignore a propósito. Mi gran misión es que dejes de gritarle a la pantalla y entiendas que tu computadora solo está siguiendo órdenes (malas, a veces). </br>
- ⚡ Soy el único psicólogo que recomienda "reiniciar" a sus pacientes cuando están abrumados </br>
- ✨ xd. ¡Tu cerebro no es un firewall! ¡Déjame entrar!  <div align="left"> 
-</div></h4>
-
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="#">
-    <img src="https://github.com/user-attachments/assets/10e5fcbf-3f94-4524-aa9c-8be1653e331a" width="200px" alt="Imagen 1"/>
-  </a>
-  <a href="#">
-    <img src="https://github.com/user-attachments/assets/9fc417bb-6edf-4e86-a757-1e25afa9662d" width="200px" alt="Imagen 2"/>
-  </a>
-  <a href="#">
-    <img src="https://github.com/user-attachments/assets/50cff220-1f15-413e-bc1d-2104a2801eed" width="200px" alt="Imagen 3"/>
-  </a>
-   <a href="#">
-    <img src="https://github.com/user-attachments/assets/88d54561-5196-4eae-a3ca-2d4f4cebda4b" width="200px" alt="Imagen 4"/>
-  </a>
-</div>
 
 
 <br/><br/>
-<a href="mailto:LaclaveEstaEnBuscarNVUWC5LNNFQXK.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://vm.tiktok.com/ZMSNB9aP4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="mailto:alanocadayanaruth@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/dayana-ruth-alanoca-9a966b312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
-<a href="https://youtu.be/ld4nzao5XAc?si=JTErzuRWJzxwQb45?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
-<a href="https://github.com/user-attachments/files/20344144/diccionariogato.txt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://vm.tiktok.com/ZMSNfy9eV/" target="_blank"><img src="https://img.shields.io/badge/Base-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a>
-<a href="https://vm.tiktok.com/ZMSNfULtJ/" target="_blank"><img src="https://img.shields.io/badge/8080-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
+<a href="https://www.instagram.com/dayanaruthalanoca?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
 
 
 
-<!-- MNEFM3DDNZJHMT2EM4YE2QI -->
+  
+  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+-->
+</div></h4>
+
+
+
+<br/><br/>
+
+
+
+<!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
 <br/>
@@ -101,12 +104,11 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
     <img src="https://skillicons.dev/icons?i=c,pwsh,kali,arch,ubuntu,python,javascript,mysql,atom" /><br>
 </div>
-<a href="https://vm.tiktok.com/ZMSNfmFgB/" target="_blank"><img src="https://img.shields.io/badge/MIAU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 
-<a href="https://vm.tiktok.com/ZMSNP8bUN/" target="_blank"><img src="https://img.shields.io/badge/Chimuelo.com-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
-<a href="https://github.com/user-attachments/files/20350218/Hipo.txt" target="_blank"><img src="https://img.shields.io/badge/Visual-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://vm.tiktok.com/ZMSNf41sd/" target="_blank"><img src="https://img.shields.io/badge/ErrorTuyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="base" /></a> 
 <br/>
+
+
+
 
 
 
