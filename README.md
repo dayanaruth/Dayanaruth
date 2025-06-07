@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  🎓 Soy estudiante de la carrera de Ingenieria de sistemas.</br>
  💬 Dedico mi tiempo libre a la natación, aprendiz de instrumentos musicales. Siempre en búsqueda de nuevos conocimientos y desafíos.</br>
  ⚡ Dato curioso la comida y la musica🎧 son las razones para vivir.</br>
- ✨ xd. <div align="left"> 
+ ✨ . <div align="left"> 
 </div></h4>
 
 
