@@ -36,8 +36,8 @@
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   </a>
 <a href="https://www.instagram.com/dayanaruthalanoca?igsh=M2R1MGd2eHA2Mm4w" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
-
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
 
 
   
