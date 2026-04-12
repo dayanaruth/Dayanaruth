@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale (1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
 
 
 
@@ -64,7 +61,7 @@ Here are some ideas to get you started:
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱 Actualmente estoy aprendiendo desarrollo web y otros leguajes de programacion y diceño .</br>
+ 🌱 Actualmente estoy aprendiendo desarrollo web y diceño UX/UI .</br>
  🎓 Soy estudiante de la carrera de Ingenieria de sistemas.</br>
  💬 Dedico mi tiempo libre a la natación, aprendiz de instrumentos musicales. Siempre en búsqueda de nuevos conocimientos y desafíos.</br>
  ⚡ Dato curioso la comida y la musica🎧 son las razones para vivir.</br>
