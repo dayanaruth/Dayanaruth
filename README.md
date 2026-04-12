@@ -11,8 +11,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="toothless-gif" width="310" src="https://media.giphy.com/media/ViGwJOV6EWAKs/giphy.gif">
-
+<img align="right" alt="toothless-gif" width="310" src="https://i.pinimg.com/736x/75/12/fd/7512fde98ee7f6b7e4772f8a16137b6a.jpg">
 
 <!-- about me -->
  <h3 align="left">💫 Acerca de mi</h3>
