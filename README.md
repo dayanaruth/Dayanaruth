@@ -22,9 +22,7 @@
 <div align="left">-->
 <h4> 
  🌱 Actualmente estoy aprendiendo desarrollo web y diceño UX/UI .</br>
- 🎓 Soy estudiante de la carrera de Ingenieria de sistemas.</br>
  💬 Dedico mi tiempo libre a la natación, aprendiz de instrumentos musicales. Siempre en búsqueda de nuevos conocimientos y desafíos.</br>
- ⚡ Dato curioso la comida y la musica🎧 son las razones para vivir.</br>
  ✨ . <div align="left"> 
 </div></h4>
 
